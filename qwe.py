@@ -51,4 +51,10 @@ if __name__ == '__main__':
         print(c)
         print(w)
 
-
+'''
+For error test you need:
+   1) enter an incorrect city name (for example, 123, qweeqweq, etc.)
+   2) specify wrong API key
+   3) specify wrong URL
+   '''
+ 
